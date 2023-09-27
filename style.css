@@ -239,7 +239,8 @@ header .search-bar-container label:hover{
 }
 
 .txt h1{
-	color: #00a7ff; /* blue */
+/* 	color: #00a7ff; /* blue */ */
+	color: #FF6969;
 	font-size: 50px;
 	margin-bottom: 20px;
 }
